@@ -1,5 +1,5 @@
 <footer>
     @yield('footer')
-    <marquee behavior="" direction=""> MANUEL ALEJANDRO URQUIDI AGUILAR 5F</marquee>
+    <marquee behavior="" direction=""> EMELY SAMANTHA URQUIDI AGUILAR  5F </marquee>
 </footer>
 </html>
