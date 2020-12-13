@@ -1,0 +1,15 @@
+footer{
+    text-align: center;
+    background-color: rgb(175, 121, 226);
+}
+img{
+    width: 50px; height: 50px;
+}
+body{
+    background-color: #888888;
+}
+main{
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
